@@ -1,3 +1,3 @@
 ### Hi, I am Michael.
 
-[michael.ninja](https://michael.ninja)
+[michael.ninja](http://michael.ninja)
