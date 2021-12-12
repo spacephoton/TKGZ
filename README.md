@@ -1,7 +1,5 @@
 ### Hi, I am Michael.
-
-Full stack.
+Currently working as a Full Stack engineer and a student.
 
 National Covid Task Force contributor [Cov-Spectrum](https://cov-spectrum.org).
 
-Currently working as a full stack engineer and a student.
